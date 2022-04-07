@@ -5,7 +5,7 @@ You can choose dataset and classifier method.
 
 # DEMO
 
-![](./Python_statistics_ml.png)
+![](https://github.com/misakikobayashi1984/Python_statistics_ml/tree/main/Python_ml_classifier/Python_statistics_ml.png)
 
 # Usage
 
