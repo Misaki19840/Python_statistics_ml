@@ -1,17 +1,18 @@
 # Python_statistics_ml
 
-Simple classifier demonstration.
-You can choose dataset and classifier method.
+It shows population in each prefecture in Japan.
 
 # DEMO
 
-![Python_ml_classifier](./Python_ml_classifier.png)
+![Python_ml_classifier](./Python_map_polulation.PNG)
 
 # Usage
 
 ```bash
-streamlit run python_ml_classifier.py
+streamlit run Python_map_polulation.py
 ```
+# 
+
 # Requirement
 
 * Python 3.9
