@@ -1,4 +1,4 @@
-# Python_statistics_ml
+# Python_map_polulation
 
 It shows population in each prefecture in Japan.
 

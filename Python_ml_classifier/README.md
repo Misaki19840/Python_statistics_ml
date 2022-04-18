@@ -1,4 +1,4 @@
-# Python_statistics_ml
+# Python_ml_classifier
 
 Simple classifier demonstration.
 You can choose dataset and classifier method.
