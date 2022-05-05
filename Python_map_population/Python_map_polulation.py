@@ -56,7 +56,7 @@ District_lat_lon = {
 "沖縄": [26.2125,127.68111],
 }
 
-df = pd.read_excel("C:\\Users\\harat_local\\Documents\\python_tmp\\n220200200.xlsx", header=None, skiprows=7, skipfooter=3)
+df = pd.read_excel(".\\n220200200.xlsx", header=None, skiprows=7, skipfooter=3)
 new_columns = ['prefecture','population_h22','population_h27',
 'col4','incresed_ratio_h22-h27','population_r2','col7','col8','incresed_ratio_h27-r2']
 df.set_axis(new_columns, axis=1, inplace=True)
