@@ -4,7 +4,7 @@ It shows hapinees score at each country or region.
 
 # DEMO
 
-![Python_geopandas_worldHappiness](./python_geopandas_worldHappiness.PNG)
+![Python_geopandas_worldHappiness](./Python_geopandas_worldHappiness.PNG)
 
 # Usage
 
