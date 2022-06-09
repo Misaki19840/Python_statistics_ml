@@ -6,7 +6,7 @@
 
 # DEMO
 
-![Python_tkinter_MaskRNN](./Python_tkinter_MaskRNN.PNG)
+![Python_tkinter_MaskRNN](./Python_tkinter_MaskRNN.png)
 
 # Usage
 
