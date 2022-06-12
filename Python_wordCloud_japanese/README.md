@@ -1,4 +1,4 @@
-# Python_tkinter_MaskRNN
+# Python_wordCloud_japanese
 
 Make Japanese word cloud image with image mask.
 
